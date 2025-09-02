@@ -150,15 +150,16 @@ class AssoDMVC(nn.Module):
 
 
     def symmetric_Normalization(self, adj):
-        #对称归一化
+        
         row_sum = adj.sum(dim=1)
         d_inv_sqrt = torch.pow(row_sum, -0.5)
         d_inv_sqrt[d_inv_sqrt == float('inf')] = 0
         d_mat_inv_sqrt = torch.diag(d_inv_sqrt)
 
-        # 对称归一化
+        
         adj = 1 - torch.mm(torch.mm(d_mat_inv_sqrt, adj), d_mat_inv_sqrt)
         return adj
+
 
 
 
