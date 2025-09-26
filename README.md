@@ -1,6 +1,6 @@
 _**This paper has been accepted to IJCAI 2025**_
 
-<h2 align="center"> <a href="extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://www.ijcai.org/proceedings/2025/0632.pdfA">View-Association-Guided Dynamic Multi-View Classification</a></h2>
+<h2 align="center"> <a href="https://www.ijcai.org/proceedings/2025/632">View-Association-Guided Dynamic Multi-View Classification</a></h2>
 
 <div align="center">
 
