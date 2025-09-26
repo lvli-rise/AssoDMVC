@@ -38,7 +38,7 @@ We used multi-view datasets in this experiment:
 ## 📑Citation
 If you find this repository useful, please cite our paper:
 ```
-@inproceedings{ijcai2025p632,
+@inproceedings{liang2025AssoDMVC,
   title     = {View-Association-Guided Dynamic Multi-View Classification},
   author    = {Liang, Xinyan and Lv, Li and Guo, Qian and Jiang, Bingbing and Li, Feijiang and Du, Liang and Chen, Lu},
   booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
