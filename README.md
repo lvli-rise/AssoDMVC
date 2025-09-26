@@ -23,3 +23,28 @@ In multi-view classification tasks, integrating information from multiple views 
 <div align="center">
   <img src="model.png" />
 </div>
+## 🎞️Experiment
+
+### Data
+We used multi-view datasets in this experiment:
+
+| Datasets            | Dataset URL                                            |    Password      | 
+|---------------------|--------------------------------------------------------|------------------|
+| MVoxCeleb           | [link](https://pan.baidu.com/s/1k6DN1m64bnrRfLK8RiFmqQ)|     ls12         |
+| YoutubeFace         | [link](https://pan.baidu.com/s/1SVTWfHpAUdFWwiU5o-kD7Q)|     ls34         | 
+| NUS-WIDE-128 (NUS)  | [link](https://pan.baidu.com/s/1udO5jvolHIbd8lOV3w4SYA)|     ls56         | 
+| Reuters5            | [link](https://pan.baidu.com/s/1j8pmo88vXsO9pBWQiHVmYA)|     ls78         | 
+| Reuters3            | [link](https://pan.baidu.com/s/1ti4OWqXTVnPDhsZ7VjahGQ)|     ls10         |          
+## 📑Citation
+If you find this repository useful, please cite our paper:
+```
+@inproceedings{ijcai2025p632,
+  title     = {View-Association-Guided Dynamic Multi-View Classification},
+  author    = {Liang, Xinyan and Lv, Li and Guo, Qian and Jiang, Bingbing and Li, Feijiang and Du, Liang and Chen, Lu},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {5680--5688},
+  year      = {2025},
+}
+```
