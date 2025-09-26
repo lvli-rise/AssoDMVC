@@ -4,7 +4,7 @@ _**This paper has been accepted to IJCAI 2025**_
 
 <div align="center">
 
-**[Xinyan Liang<sup>1</sup>](https://xinyanliang.github.io/), [Li Lv<sup>1</sup>](https://github.com/LiShuailzn), _Qian Guo_<sup>2</sup>, _Bingbing Jiang_<sup>3</sup>, _Feijiang Li_<sup>1</sup>, _Liang Du_<sup>1</sup>, _Lu Chen_<sup>1</sup>**
+**[Xinyan Liang<sup>1</sup>](https://xinyanliang.github.io/), [Li Lv<sup>1</sup>](https://github.com/lvli-rise/), _Qian Guo_<sup>2</sup>, _Bingbing Jiang_<sup>3</sup>, _Feijiang Li_<sup>1</sup>, _Liang Du_<sup>1</sup>, _Lu Chen_<sup>1</sup>**
 
 <sup>1</sup>Institute of Big Data Science and Industry, Key Laboratory of Evolutionary Science Intelligence of
 Shanxi Province, Shanxi University,<br>
